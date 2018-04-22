@@ -26,6 +26,7 @@ List of GAME ID's in Uplay by Ubisoft
 420 - Far Cry 4  
 969 - Far Cry 4 RU  
 2010 - Far Cry Primal  
+4311 - Far Cry 5
 
 # Watch_Dogs Franshise
 543 - Watch_Dogs (RU)  
