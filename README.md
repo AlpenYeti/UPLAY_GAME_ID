@@ -29,6 +29,7 @@ List of GAME ID's in Uplay by Ubisoft
 4311 - Far Cry 5
 
 # Watch_Dogs Franshise
+541 - Watch_Dogs
 543 - Watch_Dogs (RU)  
 2688 - WATCH_DOGS2  
 
