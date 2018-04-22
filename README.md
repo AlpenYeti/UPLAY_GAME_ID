@@ -41,6 +41,7 @@ List of GAME ID's in Uplay by Ubisoft
 1771 - Tom Clancy's Ghost Recon Wildlands  
 1842 - Tom Clancy's Rainbow Six Siege (RU)  
 3502 - Tom Clancy's The Division PTS  
+3559 - Tom Clancy's Ghost Recon Wildlands (Steam)
 
 # Prince of Persia Franchise
 11 - Prince of Persia The Forgotten Sands  
